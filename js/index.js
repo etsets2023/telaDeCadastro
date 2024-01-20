@@ -46,7 +46,7 @@ function entrar(){
     //trabalhar com o objeto userValid, verificar se senha e usuario estão corretos, se tiver correto fazer login, 
     if(usuario.value == userValid.user && senha.value == userValid.senha){
         setTimeout(()=> {
-            window.location.href = 'http://127.0.0.1:5500/tela-de-inicio.html';
+            window.location.href = './tela-de-inicio.html';
         }, 1000)
         //se estiver errado, mensagem de erro
     } else {
