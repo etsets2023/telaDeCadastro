@@ -130,7 +130,7 @@ button:hover{
 
 @media screen and (max-width: 992px) {  /*TABLET*/ /*celular (max-width: 750px) 992 tablet*/
     .card{
-       width: 300px;
+       width: 350px;
     }
 
 
