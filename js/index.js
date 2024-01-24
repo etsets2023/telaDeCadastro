@@ -1,4 +1,4 @@
-let btn = document.querySelector("#verSenha")
+let btn = document.querySelector("#verSenha");
 
 //código para mostrar e esconder a senha//
 btn.addEventListener('click', () => { 
